@@ -1,0 +1,17 @@
+.boton_1{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+  }
+  .boton_1:hover{
+    color: aliceblue;
+    opacity: 0.9;
+    background-color: lightblue;
+  }
+.fondo{
+    background-color:beige;
+}
